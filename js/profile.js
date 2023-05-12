@@ -1,5 +1,5 @@
 // List of bad words
-const badWords = ['badword1', '.', 'sex'];
+const badWords = ['crap', 'bitch', 'sex', 'fuck', 'bastard'];
 
 // Get user data from local storage
 const avatarUrl = localStorage.getItem('avatar');
