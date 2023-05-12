@@ -1,0 +1,50 @@
+body{
+    background-color: #FF9A62;
+}
+.topbar{
+    background-color: #F67E3A;
+}
+.line{
+    width: 100px;
+    height: 3px;
+    background-color: black;
+}
+
+.border-red{
+    border-color: #AA1601
+}
+
+body{
+    margin: 25px;
+    font-family: verdana;
+  }
+  
+  h1{
+    color: darkslategray;
+  }
+  
+  p {
+    font-size: 12pt;
+    color: black;
+  }
+  canvas {
+    height: 175px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+  }
+  
+  input {
+    font-family: verdana;
+    font-size: 12pt;
+  }
+  canvas {
+    width: 100%;
+}
+img#userAvatar {
+  width: 235px;
+  height: 235px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 5px solid #FFA621;
+}
